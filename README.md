@@ -33,14 +33,14 @@ $`
 
 👤 **Soglo-Ahianyo Elisha**
 
-- GitHub: [@tariktesfa](https://github.com/AhianyoElisha)
-- Twitter: [@tarikwatesfa](https://twitter.com/eli_nile)
+- GitHub: [@AhianyoElisha(https://github.com/AhianyoElisha)
+- Twitter: [@AhianyoElisha(https://twitter.com/eli_nile)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/elisha-ahianyo)
 
 👤 **Agyapong Godfred**
 
-- GitHub: [@dawitsisayy](https://github.com/DawitSisayy)
-- Twitter: [@Dawitsisay](https://twitter.com/twitterhandle)
+- GitHub: [@Godfred](https://github.com/githubusername)
+- Twitter: [@Godfred](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
