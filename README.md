@@ -1,7 +1,7 @@
 # Simple shell
 
 > This is an ALX collaboration project on Shell
-## Written by
+## Written in
 
 - C language
 - Shell
@@ -31,29 +31,19 @@ $`
 
 ## Authors
 
-👤 **Tarikwa Tesfa**
+👤 **Soglo-Ahianyo Elisha**
 
-- GitHub: [@tariktesfa](https://github.com/tariktesfa)
-- Twitter: [@tarikwatesfa](https://twitter.com/tarik_tesfa)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/tarikwa-tesfa)
+- GitHub: [@tariktesfa](https://github.com/AhianyoElisha)
+- Twitter: [@tarikwatesfa](https://twitter.com/eli_nile)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/elisha-ahianyo)
 
-👤 **Dawit Sisay**
+👤 **Agyapong Godfred**
 
 - GitHub: [@dawitsisayy](https://github.com/DawitSisayy)
 - Twitter: [@Dawitsisay](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
 - ALX Community
-- Hat tip to anyone whose code was used
